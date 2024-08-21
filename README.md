@@ -1,3 +1,4 @@
-![image](src/assets/images/frontPage.png)
-![image](src/assets/images/filterSections.png)
-![image](src/assets/images/singleProductPage.png)
+#How to install
+npm install
+to get the node modules, then hit
+npm start
